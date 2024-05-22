@@ -12,6 +12,11 @@ I am a passionate Data Science student at Universitat Politècnica de València 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,r,matlab,html,css,aws,anaconda,bash,bootstrap,cassandra,debian,docker,git,heroku,latex,linux,mysql,notion,php,powershell,pycharm,sublime,sklearn,ubuntu,vscode,windows)](https://skillicons.dev)
 
+## My Deployed Streamlit Applications
+
+- Working hours: https://horas-trabajadas.streamlit.app/
+- Web Scraping of Light Price: https://web-scraping-luz.streamlit.app/
+- Smart House: https://smarthouse-proyiii.streamlit.app/
 
 ## 📬 Get in Touch
 
