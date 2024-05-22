@@ -2,7 +2,7 @@
 
 I am a passionate Data Science student at Universitat Politècnica de València (Spain). I have an especial interest in artificial intelligence and data engineering
 
-![Javier Luque's GitHub Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Javier Luque's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JavierLuqueSaiz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -10,7 +10,7 @@ I am a passionate Data Science student at Universitat Politècnica de València 
 - I'm also taking a specialized course in Artificial Intelligence.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,matlab,html,css,sql)](https://skillicons.dev)
 
 
 ## 📬 Get in Touch
