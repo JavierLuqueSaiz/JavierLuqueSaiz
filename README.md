@@ -10,7 +10,7 @@ I am a passionate Data Science student at Universitat Politècnica de València 
 - I'm also taking a specialized course in Artificial Intelligence.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,r,matlab,html,css,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,html,css,aws,anaconda,bash,bootstrap,cassandra,debian,docker,git,heroku,latex,linux,mysql,notion,php,powershell,pycharm,sublime,sklearn,ubuntu,vscode,windows)](https://skillicons.dev)
 
 
 ## 📬 Get in Touch
