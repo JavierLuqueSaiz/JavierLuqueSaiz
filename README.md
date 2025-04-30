@@ -10,7 +10,7 @@ I am a passionate Data Science student at Universitat Politècnica de València 
 - I'm also taking a specialized course in Artificial Intelligence.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,html,css,aws,anaconda,bash,bootstrap,cassandra,debian,docker,git,heroku,latex,linux,mysql,notion,php,powershell,pycharm,sublime,sklearn,ubuntu,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,angular,bash,cassandra,css,docker,flask,git,github,html,js,kotlin,latex,linux,matlab,mongodb,mysql,notion,php,postgres,postman,powershell,pycharm,py,pytorch,r,regex,supabase,sklearn,selenium,tensorflow,ts,ubuntu,vscode,)](https://skillicons.dev)
 
 ## My Deployed Streamlit Applications
 
